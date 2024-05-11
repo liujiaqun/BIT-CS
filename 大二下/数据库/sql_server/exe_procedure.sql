@@ -1,0 +1,1 @@
+EXECUTE dbo.test1 N'aaa', N'bbb';
